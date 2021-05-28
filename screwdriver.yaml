@@ -4,4 +4,4 @@ shared:
     - echo: sleep 10; echo hi
 jobs:
   external_fork:
-    requires: [~sd@1:main]
+    requires: [~sd@7409:main]
